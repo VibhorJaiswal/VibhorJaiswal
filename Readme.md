@@ -1,4 +1,4 @@
-### Hi there, I'm Vibhor Jaiswal  👋
+### Hi there, I'm Vibhor Jaiswal  :wave:
 
 ## I'm a Student!
 - 🌱 I’m currently learning everything 🤣
