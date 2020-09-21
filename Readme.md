@@ -2,7 +2,6 @@
 
 ## I'm a Student!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Start Contributing in Open Source projects
 
 ### Connect with me:
