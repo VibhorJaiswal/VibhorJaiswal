@@ -1,7 +1,7 @@
 ### Hi there, I'm Vibhor Jaiswal  👋
 
 ## I'm a Student!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Start Contributing in Open Source projects
 
 ### Connect with me:
