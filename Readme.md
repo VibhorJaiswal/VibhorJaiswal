@@ -3,6 +3,8 @@
 ## I'm a 3rd-year student pursuing B.Tech in Information Technology!
 
 <a href="mailto:vibhor.jaiswal9.9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vibhor-jaiswal-a031231b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
