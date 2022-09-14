@@ -1,6 +1,6 @@
 ### Hi there, I'm Vibhor Jaiswal  👋
 
-## I'm a 3rd-year student pursuing B.Tech in Information Technology!
+## I'm a 4th-year student pursuing B.Tech in Information Technology!
 
 <a href="mailto:vibhor.jaiswal9.9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vibhor-jaiswal-a031231b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
