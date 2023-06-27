@@ -23,7 +23,7 @@
 
 <br />
 
-[![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhorJaiswal)](https://github.com/VibhorJaiswal/github-readme-stats)
+<!--- [![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhorJaiswal)](https://github.com/VibhorJaiswal/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorJaiswal&layout=compact)](https://github.com/VibhorJaiswal/github-readme-stats)
 
