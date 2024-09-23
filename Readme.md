@@ -1,6 +1,7 @@
+![Hi!!!](https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif) 
 
-<h1 align="center">Hi 👋, I'm Vibhor Jaiswal</h1>
-<h3 align="center">I'm a Software Engineer!</h3>
+<h1 align="center">Hi 👋!!! I'm Vibhor Jaiswal, a Software Engineer!</h1>
+<!-- <h3 align="center">I'm a Software Engineer!</h3> -->
 
 - 📫 Reach me at **vibhor.jaiswal9.9@gmail.com**
 
@@ -17,7 +18,7 @@
 <h3 align="left">Languages :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,react,mysql,aws,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,react,nodejs,expressjs,mysql,aws,azure" />
   </a>
 </p>
 
