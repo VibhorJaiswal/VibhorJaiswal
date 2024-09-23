@@ -1,13 +1,22 @@
-![Hi!!!](https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif) 
 
+<img src="https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif" width="300" height="300" />
 <h1 align="center">Hi 👋!!! I'm Vibhor Jaiswal, a Software Engineer!</h1>
 <!-- <h3 align="center">I'm a Software Engineer!</h3> -->
 
 - 📫 Reach me at **vibhor.jaiswal9.9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Happy to connect with you on:</h3> <p align="left">
 <a href="https://www.linkedin.com/in/vibhor-jaiswal-a031231b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vibhor-jaiswal-a031231b0/" height="30" width="40" /></a>
+</p>
+
+
+<br />
+
+
+
+<h3 align="left">More about my skills:</h3>
+<p align="left">
+
 <a href="https://www.hackerrank.com/vibhor_jaiswal91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vibhor_jaiswal91" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vibhorjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vibhorjaiswal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vibhorjaiswal99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhorjaiswal99" height="30" width="40" /></a>
