@@ -1,7 +1,7 @@
 
-<img src="https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif" width="300" height="300" />
 <h1 align="center">Hi 👋!!! I'm Vibhor Jaiswal, a Software Engineer!</h1>
-<!-- <h3 align="center">I'm a Software Engineer!</h3> -->
+
+<img src="https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif" width="300" height="300" />
 
 - 📫 Reach me at **vibhor.jaiswal9.9@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <br />
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Works on:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,react,nodejs,expressjs,mysql,aws,azure" />
@@ -35,6 +35,4 @@
 
 <!--- [![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhorJaiswal)](https://github.com/VibhorJaiswal/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorJaiswal&layout=compact)](https://github.com/VibhorJaiswal/github-readme-stats)
-
-
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorJaiswal&layout=compact)](https://github.com/VibhorJaiswal/github-readme-stats) -->
