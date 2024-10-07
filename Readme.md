@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋!!! I'm Vibhor Jaiswal, a Software Engineer!</h1>
 
-<img src="https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif" width="300" height="300" />
+<img src="https://github.com/VibhorJaiswal/VibhorJaiswal/blob/adding-gif/Hi!.gif" width="230" height="230" />
 
 - 📫 Reach me at **vibhor.jaiswal9.9@gmail.com**
 
