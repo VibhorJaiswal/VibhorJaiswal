@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="eRCc25JxYyTAeTHI-EwOWAiTwHixE_dp4HsQYxeq48I" />
 <h1 align="center">Hi 👋!!! I'm Vibhor Jaiswal, a Software Engineer!</h1>
 
 <div align="center">
