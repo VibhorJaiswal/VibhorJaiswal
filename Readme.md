@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **vibhor.jaiswal9.9@gmail.com**
 
-<h3 align="left">Works on:</h3>
+<h3 align="left">Technical Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,html,css,react,nodejs,expressjs,mysql,aws,azure" />
@@ -33,3 +33,4 @@
 <!--- [![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VibhorJaiswal)](https://github.com/VibhorJaiswal/github-readme-stats) -->
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibhorJaiswal&layout=compact)](https://github.com/VibhorJaiswal/github-readme-stats) -->
+
